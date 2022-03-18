@@ -1,5 +1,4 @@
 import { Stan } from 'node-nats-streaming';
-import { kill } from 'process';
 import { Subjects } from './subjects';
 
 interface Event {
